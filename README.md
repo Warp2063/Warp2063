@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I've been programming for years, beginning by teaching myself on an inherited Atari 130XE computer with the PILOT programming language, and later moving onto QBASIC on a curbside-sourced IBM PS/2 computer.  Later, I took classes on Java, C++, C, and assembly language and microcode for various teaching architectures.  I've also dabbled in C#, Go, and PIC assembly, and Inform 7 for interactive fiction.
+
+🌱 I’m currently learning HTML, CSS, and JS!
+
 <!--
 **Warp2063/Warp2063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
