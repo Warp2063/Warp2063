@@ -4,6 +4,12 @@ I've been programming for years, beginning by teaching myself on an inherited At
 
 🌱 I’m currently learning HTML, CSS, and JS!
 
+---
+
+In the TechEd 201 course I'm taking, we've covered a wide variety of topics and created various projects.  I've learned to use GitHub for project management, though I'm still building proficiency in it.  Many programming concepts were already very familiar to me thanks to my experience in Java and other languages.  (For example, data structures, code flow via conditionals and loops, etc.)  A collection of descriptions of most of the labs we did in the 201 course are already contained here: [201 Course Labs](https://github.com/Warp2063/TechEd-201/blob/main/code/code.md).  I'm also working on a larger game project which is hosted here on GitHub as well.
+
+CSS has been very interesting, as well as the manipulation of the DOM.  I've rather enjoyed being able to dynamically change page layouts by adding/removing classes to them, causing different bits of CSS to act on them. CSS animations have been a lot of fun as well.
+
 <!--
 **Warp2063/Warp2063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
